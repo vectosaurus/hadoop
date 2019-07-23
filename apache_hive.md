@@ -10,3 +10,5 @@
 - Query execution via Apache Tez™, Apache Spark™, or MapReduce
 - Procedural language with HPL-SQL
 - Sub-second query retrieval via Hive LLAP, Apache YARN and Apache Slider.
+
+https://cwiki.apache.org/confluence/display/Hive/
